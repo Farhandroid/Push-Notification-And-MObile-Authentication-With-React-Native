@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "862884536432",
+    "firebase_url": "https://testpushandmobauthentication.firebaseio.com",
+    "project_id": "testpushandmobauthentication",
+    "storage_bucket": "testpushandmobauthentication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862884536432:android:18eeb86daecd24cb8ed4b5",
+        "android_client_info": {
+          "package_name": "com.testpushnotificationandmobileauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862884536432-3a7b9gchkar1av41bu62vvecvlhq75ch.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.testpushnotificationandmobileauthentication",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "862884536432-d5hbarv02dj9i7pl301oeebdr17l7rp6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb3jZbsEqtgozLB52gmeyP2w2IsyB1Ewk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862884536432-d5hbarv02dj9i7pl301oeebdr17l7rp6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
